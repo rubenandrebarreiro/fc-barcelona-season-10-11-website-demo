@@ -39,7 +39,7 @@
 
 ## Description
 
-> A **_3rd year's lab work (project)_** of the **_Professional Course of Technician of Programming and Management of Computer Systems_** made in [**_High School of Monte de Caparica_**](https://www.fct.unl.pt/), in the subject of [**_High Performance Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=11165). This project was built using [**_HTML_**](https://www.w3schools.com/html/) and [**_Notepad++ (Notepad Plus Plus)_**](https://notepad-plus-plus.org/). The scenario of the project was the development of a **_Website_** dedicated to _simple demo_ of the _squad of the soccer club_ [**_F.C. Barcelona_**](https://www.fcbarcelona.com/en/) in the _season 2010/2011_. This _demo_ also address _simple and useful information about its story and titles won until the season 2010/2011_.
+> A **_3rd year's lab work (project)_** of the **_Professional Course of Technician of Programming and Management of Computer Systems_** made in [**_High School of Monte de Caparica_**](https://www.fct.unl.pt/), in the subject of **_Communication Networks_**. This project was built using [**_HTML_**](https://www.w3schools.com/html/) and [**_Notepad++ (Notepad Plus Plus)_**](https://notepad-plus-plus.org/). The scenario of the project was the development of a **_Website_** dedicated to _simple demo_ of the _squad of the soccer club_ [**_F.C. Barcelona_**](https://www.fcbarcelona.com/en/) in the _season 2010/2011_. This _demo_ also address _simple and useful information about its story and titles won until the season 2010/2011_.
 
 ***
 
